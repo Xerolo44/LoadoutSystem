@@ -1,0 +1,6 @@
+name: Loadout
+version: '${project.version}'
+main: de.pandoracity.xerolo.Main
+api-version: 1.18
+commands:
+  loadout:
